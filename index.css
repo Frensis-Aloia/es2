@@ -1,0 +1,19 @@
+article header{
+    position: sticky;
+    top:5px;
+    background-color: red;
+    color:white;
+}
+
+a{
+    position: fixed;
+    bottom: 10px;
+    right: 25px;
+    border-radius:100px;
+    border:solid yellow 3px;
+    background-color: yellowgreen;
+}
+
+a:hover{
+    transform: scale(2);
+}
